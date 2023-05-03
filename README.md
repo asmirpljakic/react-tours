@@ -1,2 +1,1 @@
-# react-tours
-Tours
+## React Projects Starter APP
